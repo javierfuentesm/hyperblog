@@ -42,4 +42,6 @@ $ git reset [commit code] [–hard]
 $ git checkout [commit code] [file name]
 
 
+git pull origin master --allow-unrelated-histories”
+
 
